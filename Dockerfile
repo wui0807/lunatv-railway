@@ -1,1 +1,1 @@
-FROM ghcr.io/moontechlab/lunatv:v2.2.1
+FROM ghcr.io/moontechlab/lunatv:latest
